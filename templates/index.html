@@ -1,9 +1,12 @@
 {% extends "base.html" %}
 
-{% block title %}{{ section.title }}{% endblock %}
-
 {% block content %}
-<article class="prose">
+<article class="prose" itemscope itemtype="https://schema.org/Person">
+  <meta itemprop="name" content="Matteo Baldelli">
+  <meta itemprop="jobTitle" content="Computer Vision & AI Engineer">
+  <meta itemprop="email" content="{{ config.extra.email }}">
+  <meta itemprop="telephone" content="{{ config.extra.phone }}">
+  <meta itemprop="address" content="Bergamo, Lombardia, Italia">
   {{ section.content | safe }}
 </article>
 {% endblock %}

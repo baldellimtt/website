@@ -1,6 +1,6 @@
 +++
-title = "Matteo Baldelli"
-description = "Computer Vision & AI Engineer. Bergamo, Italy."
+title = "Matteo Baldelli | Computer Vision & AI Engineer · Bergamo, Brescia, Lombardy"
+description = "Matteo Baldelli, Computer Vision & AI Engineer in Bergamo, Italy. Industrial computer vision, deep learning and inspection systems for Bergamo, Brescia and Lombardy."
 template = "index.html"
 +++
 

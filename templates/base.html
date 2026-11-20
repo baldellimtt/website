@@ -3,12 +3,179 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% block title %}{{ config.title }}{% endblock %}</title>
-  <meta name="description" content="{% block description %}{% if section %}{{ section.description | default(value=config.description) }}{% else %}{{ config.description }}{% endif %}{% endblock %}">
+  {% set page_title = config.title %}
+  {% set page_description = config.description %}
+  {% if section %}
+    {% if section.title %}{% set_global page_title = section.title %}{% endif %}
+    {% if section.description %}{% set_global page_description = section.description %}{% endif %}
+  {% endif %}
+  <title>{% block title %}{{ page_title }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ page_description }}{% endblock %}">
+  <meta name="author" content="Matteo Baldelli">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <meta name="geo.region" content="IT-25">
+  <meta name="geo.placename" content="Bergamo, Brescia, Lombardia">
+  <link rel="canonical" href="{{ current_url | safe }}">
+  <link rel="alternate" hreflang="it" href="{{ get_url(path='/', lang='it') }}">
+  <link rel="alternate" hreflang="en" href="{{ get_url(path='/', lang='en') }}">
+  <link rel="alternate" hreflang="x-default" href="{{ get_url(path='/', lang='it') }}">
+  <meta property="og:type" content="profile">
+  <meta property="og:site_name" content="Matteo Baldelli">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:description" content="{{ page_description }}">
+  <meta property="og:url" content="{{ current_url | safe }}">
+  <meta property="og:locale" content="{% if lang == 'en' %}en_US{% else %}it_IT{% endif %}">
+  <meta property="og:locale:alternate" content="{% if lang == 'en' %}it_IT{% else %}en_US{% endif %}">
+  <meta property="og:image" content="{{ get_url(path='img/oliveto.jpg') }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page_title }}">
+  <meta name="twitter:description" content="{{ page_description }}">
+  <meta name="twitter:image" content="{{ get_url(path='img/oliveto.jpg') }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ get_url(path='css/main.css') }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "{{ config.base_url | safe }}/#website",
+        "url": "{{ config.base_url | safe }}/",
+        "name": "Matteo Baldelli",
+        "description": {{ page_description | json_encode | safe }},
+        "inLanguage": ["it", "en"],
+        "publisher": { "@id": "{{ config.base_url | safe }}/#person" }
+      },
+      {
+        "@type": "ProfilePage",
+        "@id": "{{ current_url | safe }}#profilepage",
+        "url": "{{ current_url | safe }}",
+        "name": {{ page_title | json_encode | safe }},
+        "description": {{ page_description | json_encode | safe }},
+        "inLanguage": "{{ lang }}",
+        "isPartOf": { "@id": "{{ config.base_url | safe }}/#website" },
+        "mainEntity": { "@id": "{{ config.base_url | safe }}/#person" },
+        "about": { "@id": "{{ config.base_url | safe }}/#person" }
+      },
+      {
+        "@type": "Person",
+        "@id": "{{ config.base_url | safe }}/#person",
+        "name": "Matteo Baldelli",
+        "url": "{{ config.base_url | safe }}/",
+        "email": "mailto:{{ config.extra.email }}",
+        "telephone": "{{ config.extra.phone }}",
+        "jobTitle": "{{ config.extra.job_title }}",
+        "description": "Computer Vision & AI Engineer based in Bergamo, Lombardy, Italy. Designs and deploys industrial vision systems, deep learning models, edge AI and RAG platforms for companies in Bergamo, Brescia and Lombardy.",
+        "knowsLanguage": ["it", "en"],
+        "alumniOf": {
+          "@type": "CollegeOrUniversity",
+          "name": "Università degli Studi di Pavia",
+          "sameAs": "https://www.unipv.it/"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Bergamo",
+          "addressRegion": "Lombardia",
+          "addressCountry": "IT"
+        },
+        "homeLocation": {
+          "@type": "Place",
+          "name": "Bergamo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Bergamo",
+            "addressRegion": "Lombardia",
+            "addressCountry": "IT"
+          }
+        },
+        "workLocation": [
+          {
+            "@type": "Place",
+            "name": "Bergamo",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Bergamo",
+              "addressRegion": "Lombardia",
+              "addressCountry": "IT"
+            }
+          },
+          {
+            "@type": "Place",
+            "name": "Brescia",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Brescia",
+              "addressRegion": "Lombardia",
+              "addressCountry": "IT"
+            }
+          },
+          {
+            "@type": "Place",
+            "name": "Lombardia",
+            "address": {
+              "@type": "PostalAddress",
+              "addressRegion": "Lombardia",
+              "addressCountry": "IT"
+            }
+          }
+        ],
+        "areaServed": [
+          { "@type": "AdministrativeArea", "name": "Bergamo" },
+          { "@type": "AdministrativeArea", "name": "Brescia" },
+          { "@type": "AdministrativeArea", "name": "Lombardia" },
+          { "@type": "Country", "name": "Italy" }
+        ],
+        "knowsAbout": [
+          "Computer Vision",
+          "Industrial AI",
+          "Machine Learning",
+          "Deep Learning",
+          "Edge AI",
+          "RAG",
+          "Retrieval-Augmented Generation",
+          "Industrial inspection systems",
+          "X-ray inspection",
+          "Collaborative robots",
+          "Vision-Language Models",
+          "Vision-Language-Action",
+          "SLAM",
+          "Agricultural robotics",
+          "Bergamo",
+          "Brescia",
+          "Lombardy"
+        ],
+        "sameAs": [
+          "{{ config.extra.linkedin }}",
+          "{{ config.extra.github }}",
+          "{{ get_url(path='/', lang='it') }}",
+          "{{ get_url(path='/', lang='en') }}"
+        ],
+        "image": "{{ get_url(path='img/oliveto.jpg') }}",
+        "hasOccupation": {
+          "@type": "Occupation",
+          "name": "Computer Vision & AI Engineer",
+          "occupationLocation": [
+            {
+              "@type": "City",
+              "name": "Bergamo"
+            },
+            {
+              "@type": "City",
+              "name": "Brescia"
+            },
+            {
+              "@type": "State",
+              "name": "Lombardia"
+            }
+          ],
+          "skills": "Computer vision, deep learning, industrial inspection, edge AI, RAG systems, robotics integration"
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
   <header class="site-header">
@@ -24,7 +191,7 @@
   </main>
 
   <footer class="site-footer">
-    <p>© 2026 Matteo Baldelli</p>
+    <p>© 2026 Matteo Baldelli · Bergamo, Brescia, Lombardia</p>
   </footer>
 </body>
 </html>

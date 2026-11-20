@@ -1,6 +1,6 @@
 +++
-title = "Matteo Baldelli"
-description = "Computer Vision & AI Engineer. Bergamo."
+title = "Matteo Baldelli | Computer Vision & AI Engineer · Bergamo, Brescia, Lombardia"
+description = "Matteo Baldelli, Computer Vision & AI Engineer a Bergamo. Visione artificiale, deep learning, ispezione industriale e AI per aziende a Bergamo, Brescia e in Lombardia."
 template = "index.html"
 +++
 
