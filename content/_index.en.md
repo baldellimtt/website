@@ -10,7 +10,7 @@ template = "index.html"
 
 I trained as a physicist and work on computer vision and artificial intelligence for industry.
 
-For more than ten years I have been designing and developing vision systems, from cameras, optics and lighting through algorithms to integration and production deployment.
+For more than ten years I have designed and developed vision systems: cameras, optics and lighting, algorithms, integration and production deployment.
 
 Sarnico (BG), Italy
 
@@ -22,56 +22,54 @@ Sarnico (BG), Italy
 
 I hold a Master's degree in Physics from the University of Pavia.
 
-I built my experience working with companies and startups focused on computer vision and artificial intelligence, contributing to more than **40 vision systems**, mainly in biomedical, automotive and pharmaceutical applications.
+I have worked with companies and startups in computer vision and artificial intelligence. I have contributed to more than **40 vision systems**, mainly in biomedical, automotive and pharmaceutical applications.
 
-My main areas of expertise are:
+Areas of expertise:
 
-- **Computer Vision & Image Processing** — Image processing, automated inspection, defect detection and quality control.
-- **Machine Learning & Deep Learning** — Development, training and integration of machine learning models.
-- **Industrial Vision Systems** — Camera, optics and lighting selection; design and integration of vision systems.
-- **Edge AI & Automation** — Running algorithms on dedicated hardware and integrating with industrial machines and collaborative robots.
+- **Computer Vision & Image Processing**: image processing, automated inspection, defect detection and quality control
+- **Machine Learning & Deep Learning**: developing, training and integrating models
+- **Industrial Vision Systems**: camera, optics and lighting selection; design and integration of vision systems
+- **Edge AI & Automation**: algorithms on dedicated hardware and integration with industrial machines and collaborative robots
 
 ## Intelligent software and RAG
 
-I also build software and AI platforms based on **RAG** (Retrieval-Augmented Generation) architectures, so an organisation can query and use its own documents and knowledge in day-to-day work.
+I also build software and AI platforms based on **RAG** (Retrieval-Augmented Generation), so company documents and knowledge can be queried in day-to-day work.
 
-I start from process analysis: how work is done today, where time or information is lost, where the bottlenecks are. From there I identify where AI or automation actually helps, and design solutions that fit the real workflow — not standalone demos.
+I start from process analysis: how work is done today, where time or information is lost, where the bottlenecks are. Then I identify where AI or automation helps and design solutions that fit the real workflow.
 
 ## Selected projects
 
-**X-ray and surface inspection — Automotive**
+**X-ray and surface inspection (automotive)**
 
 Design and development of an automatic line for X-ray inspection and surface control of mechanical components, from system definition through production deployment.
 
-**Bacterial detection — Biomedical**
+**Bacterial detection (biomedical)**
 
-Development of image analysis algorithms for automatic bacteria detection on Petri dishes.
+Image analysis algorithms for automatic bacteria detection on Petri dishes.
 
-**Robotic automation — Industry**
+**Robotic automation (industry)**
 
-Automation of a sintering line using three collaborative robots.
+Automation of a sintering line with three collaborative robots.
 
 ## Technology interests
 
-I follow technologies that bring artificial intelligence closer to understanding and interacting with the physical world.
+I also follow technologies closer to understanding and interacting with the physical world:
 
-In particular:
-
-- **Vision-Language Models (VLM)** — Multimodal models and new applications of AI to vision.
-- **Vision-Language-Action (VLA)** — Embodied AI, advanced robotics and humanoid robots.
-- **SLAM & Autonomous Systems** — Environmental perception, localization, autonomous navigation and drones.
+- **Vision-Language Models (VLM)**: multimodal models and AI applied to vision
+- **Vision-Language-Action (VLA)**: embodied AI, robotics and humanoid robots
+- **SLAM & Autonomous Systems**: perception, localization, autonomous navigation and drones
 
 ## Beyond work
 
-I am the father of a daughter and, outside work, I also like projects far from technology.
+I am the father of a daughter. Outside work I also spend time on things far from technology.
 
-One of these is a small **olive grove of 60 trees that I planted in Franciacorta**. It lets me spend time outdoors, learn new things and follow the growth of something concrete.
+I planted a small **olive grove of 60 trees in Franciacorta**: time outdoors, something concrete to grow, and some hands-on learning.
 
 ![Olive grove in Franciacorta]({{ get_url(path="img/oliveto.jpg") }})
 
 ## Contact
 
-I am open to new collaborations and projects in computer vision, applied artificial intelligence and intelligent systems.
+For collaborations or projects in computer vision, applied AI and intelligent systems:
 
 **Email:** [baldellimtt@gmail.com](mailto:baldellimtt@gmail.com)  
 **Phone:** +39 329 748 4449  
