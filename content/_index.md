@@ -70,7 +70,7 @@ Ho messo a dimora un piccolo **oliveto di 60 piante in Franciacorta**: tempo all
 
 ## Contatti
 
-Per collaborazioni o progetti su computer vision, AI e sistemi intelligenti, e anche per lavori diversi, se ha senso parlarne:
+Se il tuo problema non sta in questa pagina, c'è una buona probabilità che mi interessi lo stesso. Scrivimi:
 
 **Email:** [baldellimtt@gmail.com](mailto:baldellimtt@gmail.com)  
 **Telefono:** +39 329 748 4449  

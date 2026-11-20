@@ -70,7 +70,7 @@ I planted a small **olive grove of 60 trees in Franciacorta**: time outdoors, so
 
 ## Contact
 
-For collaborations or projects in computer vision, AI and intelligent systems, and also for other kinds of work, if it is worth talking about:
+If your problem is not on this page, there is a good chance I am interested anyway. Write to me:
 
 **Email:** [baldellimtt@gmail.com](mailto:baldellimtt@gmail.com)  
 **Phone:** +39 329 748 4449  
