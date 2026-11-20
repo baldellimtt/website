@@ -1,6 +1,6 @@
 +++
-title = "Matteo Baldelli | Computer Vision & AI Engineer · Bergamo, Brescia, Lombardia"
-description = "Matteo Baldelli, Computer Vision & AI Engineer a Bergamo. Visione artificiale, deep learning, ispezione industriale e AI per aziende a Bergamo, Brescia e in Lombardia."
+title = "Matteo Baldelli — Visione industriale, software AI e analisi dati | Bergamo"
+description = "Computer Vision & AI Engineer a Bergamo: visione artificiale industriale, software AI, analisi dati di ispezione ed edge AI. Profilo e progetti."
 template = "index.html"
 +++
 

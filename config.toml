@@ -1,16 +1,16 @@
 base_url = "https://baldellimtt.github.io/website"
-title = "Matteo Baldelli | Computer Vision & AI Engineer · Bergamo, Brescia, Lombardia"
-description = "Matteo Baldelli, Computer Vision & AI Engineer a Bergamo. Visione artificiale, deep learning, sistemi di ispezione e AI industriale per aziende in Bergamo, Brescia e Lombardia."
+title = "Matteo Baldelli — Visione industriale, software AI e analisi dati | Bergamo"
+description = "Computer Vision & AI Engineer a Bergamo: visione artificiale industriale, software AI, analisi dati di ispezione ed edge AI. Profilo e progetti."
 default_language = "it"
 compile_sass = false
 build_search_index = false
 generate_feeds = false
 generate_sitemap = true
-generate_robots_txt = true
+generate_robots_txt = false
 
 [languages.en]
-title = "Matteo Baldelli | Computer Vision & AI Engineer · Bergamo, Brescia, Lombardy"
-description = "Matteo Baldelli, Computer Vision & AI Engineer in Bergamo, Italy. Industrial computer vision, deep learning and inspection systems for companies in Bergamo, Brescia and Lombardy."
+title = "Matteo Baldelli — Industrial vision, AI software and data analysis | Bergamo"
+description = "Computer Vision & AI Engineer in Bergamo, Italy: industrial machine vision, AI software, inspection data analysis and edge AI. Profile and selected projects."
 
 [extra]
 email = "baldellimtt@gmail.com"
@@ -20,3 +20,5 @@ location_en = "Bergamo, Italy"
 linkedin = "https://linkedin.com/in/matteo-baldelli-124b9557"
 github = "https://github.com/baldellimtt"
 job_title = "Computer Vision & AI Engineer"
+canonical_it = "https://baldellimtt.github.io/website/"
+canonical_en = "https://baldellimtt.github.io/website/en/"
