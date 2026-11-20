@@ -1,9 +1,10 @@
-# matteobaldelli.it
+# website
 
-Sito personale (Zola), IT / EN.
+Personal site (Zola) — IT / EN.
+
+Live: https://baldellimtt.github.io/website/
 
 ```bash
 zola serve
-# IT → http://127.0.0.1:1111/
-# EN → http://127.0.0.1:1111/en/
+zola build
 ```

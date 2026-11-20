@@ -14,7 +14,7 @@ Da oltre dieci anni progetto e sviluppo sistemi di visione, dalla scelta di tele
 
 Sarnico (BG), Italia
 
-[LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Scarica CV](/cv/Matteo_Baldelli_CV_IT.pdf)
+[LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Scarica CV]({{ get_url(path="cv/Matteo_Baldelli_CV_IT.pdf") }})
 
 ---
 
@@ -67,7 +67,7 @@ Sono papà di una bambina e, fuori dal lavoro, mi piace dedicarmi anche a proget
 
 Uno di questi è un piccolo **oliveto di 60 piante che ho messo a dimora in Franciacorta**. Un'attività che mi permette di trascorrere tempo all'aria aperta, imparare cose nuove e seguire la crescita di qualcosa di concreto.
 
-![Oliveto in Franciacorta](/img/oliveto.jpg)
+![Oliveto in Franciacorta]({{ get_url(path="img/oliveto.jpg") }})
 
 ## Contatti
 
@@ -77,4 +77,4 @@ Sono interessato a nuove collaborazioni e progetti nell'ambito della computer vi
 **Telefono:** +39 329 748 4449  
 **Località:** Sarnico (BG), Italia
 
-[LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Curriculum Vitae](/cv/Matteo_Baldelli_CV_IT.pdf)
+[LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Curriculum Vitae]({{ get_url(path="cv/Matteo_Baldelli_CV_IT.pdf") }})

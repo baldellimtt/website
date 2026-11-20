@@ -14,7 +14,7 @@ For more than ten years I have been designing and developing vision systems, fro
 
 Sarnico (BG), Italy
 
-[LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Download CV](/cv/Matteo_Baldelli_CV_EN.pdf)
+[LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Download CV]({{ get_url(path="cv/Matteo_Baldelli_CV_EN.pdf") }})
 
 ---
 
@@ -67,7 +67,7 @@ I am the father of a daughter and, outside work, I also like projects far from t
 
 One of these is a small **olive grove of 60 trees that I planted in Franciacorta**. It lets me spend time outdoors, learn new things and follow the growth of something concrete.
 
-![Olive grove in Franciacorta](/img/oliveto.jpg)
+![Olive grove in Franciacorta]({{ get_url(path="img/oliveto.jpg") }})
 
 ## Contact
 
@@ -77,4 +77,4 @@ I am open to new collaborations and projects in computer vision, applied artific
 **Phone:** +39 329 748 4449  
 **Location:** Sarnico (BG), Italy
 
-[LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Curriculum Vitae](/cv/Matteo_Baldelli_CV_EN.pdf)
+[LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Curriculum Vitae]({{ get_url(path="cv/Matteo_Baldelli_CV_EN.pdf") }})
