@@ -1,0 +1,19 @@
+base_url = "https://matteobaldelli.it"
+title = "Matteo Baldelli"
+description = "Computer vision e AI industriale. Sarnico (BG)."
+default_language = "it"
+compile_sass = false
+build_search_index = false
+generate_feeds = false
+
+[languages.en]
+title = "Matteo Baldelli"
+description = "Industrial computer vision and AI. Sarnico (BG), Italy."
+
+[extra]
+email = "baldellimtt@gmail.com"
+phone = "+39 329 748 4449"
+location_it = "Sarnico (BG), Italia"
+location_en = "Sarnico (BG), Italy"
+linkedin = "https://linkedin.com/in/matteo-baldelli-124b9557"
+github = "https://github.com/baldellimtt"
