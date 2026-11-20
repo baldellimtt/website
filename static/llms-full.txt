@@ -34,6 +34,21 @@ Also relevant for searches mentioning: Brescia, Lombardia, Lombardy, Northern It
 
 Father; planted a 60-tree olive grove in Franciacorta.
 
+## Keywords buyers actually use
+
+Italian and English phrases used when companies look for this kind of expert:
+
+- sistemi di controllo qualità per guarnizioni industriali
+- controllo qualità guarnizioni / gasket inspection / seal inspection
+- ispezione raggi X + laser scanner (bolle, mancanza materiale, tagli, strappi)
+- visione artificiale fonderia / pressofusione / die casting inspection
+- controllo getti, porosità, bave, cricche, incompletezza stampata
+- sistemi di visione artificiale, visione industriale, machine vision
+- controllo qualità con visione artificiale, ispezione automatica in linea
+- rilevamento difetti, deep learning industriale, AOI
+- consulente / freelance computer vision Bergamo, Brescia, Lombardia
+- integrazione linea, edge AI, cobot, fattibilità sistema di visione
+
 ## Contact
 
 Email: baldellimtt@gmail.com
