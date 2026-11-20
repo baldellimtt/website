@@ -1,6 +1,6 @@
 +++
 title = "Matteo Baldelli"
-description = "Computer Vision & AI Engineer. Sarnico (BG), Italy."
+description = "Computer Vision & AI Engineer. Bergamo, Italy."
 template = "index.html"
 +++
 
@@ -12,7 +12,7 @@ I trained as a physicist and work on computer vision and artificial intelligence
 
 For more than ten years I have designed and developed vision systems: cameras, optics and lighting, algorithms, integration and production deployment.
 
-Sarnico (BG), Italy
+Bergamo, Italy
 
 [LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Download CV]({{ get_url(path="cv/Matteo_Baldelli_CV_EN.pdf") }})
 
@@ -73,6 +73,6 @@ For collaborations or projects in computer vision, applied AI and intelligent sy
 
 **Email:** [baldellimtt@gmail.com](mailto:baldellimtt@gmail.com)  
 **Phone:** +39 329 748 4449  
-**Location:** Sarnico (BG), Italy
+**Location:** Bergamo, Italy
 
 [LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Curriculum Vitae]({{ get_url(path="cv/Matteo_Baldelli_CV_EN.pdf") }})

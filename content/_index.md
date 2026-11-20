@@ -1,6 +1,6 @@
 +++
 title = "Matteo Baldelli"
-description = "Computer Vision & AI Engineer. Sarnico (BG)."
+description = "Computer Vision & AI Engineer. Bergamo."
 template = "index.html"
 +++
 
@@ -12,7 +12,7 @@ Sono un fisico di formazione e mi occupo di visione artificiale e intelligenza a
 
 Da oltre dieci anni progetto e sviluppo sistemi di visione: scelta di telecamere, ottiche e illuminazione, sviluppo degli algoritmi, integrazione e messa in produzione.
 
-Sarnico (BG), Italia
+Bergamo, Italia
 
 [LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Scarica CV]({{ get_url(path="cv/Matteo_Baldelli_CV_IT.pdf") }})
 
@@ -73,6 +73,6 @@ Per collaborazioni o progetti su computer vision, AI applicata e sistemi intelli
 
 **Email:** [baldellimtt@gmail.com](mailto:baldellimtt@gmail.com)  
 **Telefono:** +39 329 748 4449  
-**Località:** Sarnico (BG), Italia
+**Località:** Bergamo, Italia
 
 [LinkedIn](https://linkedin.com/in/matteo-baldelli-124b9557) · [GitHub](https://github.com/baldellimtt) · [Curriculum Vitae]({{ get_url(path="cv/Matteo_Baldelli_CV_IT.pdf") }})
