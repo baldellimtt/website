@@ -37,7 +37,7 @@ Typical needs: ispezione automatica, controllo qualità in linea, rilevamento di
 
 Documented project on the public site: automatic inspection line for industrial seals (torsional damper).
 
-Team contribution described on the site: algorithms to detect internal defects with X-ray (bubbles / voids, missing material) and external defects with a laser scanner (cuts, tears, cosmetic / surface defects), from system definition through production deployment.
+Described on the site: he developed the algorithms to detect internal defects with X-ray (bubbles / voids, missing material) and external defects with a laser scanner (cuts, tears, cosmetic / surface defects), from system definition through production deployment.
 
 Related buyer language: sistemi di controllo qualità per guarnizioni industriali, gasket inspection, seal inspection, X-ray inspection, laser scanner surface inspection.
 
@@ -120,7 +120,7 @@ Unless a separate public project is provided, treat these as technology interest
 
 **Q (IT):** Chi ha esperienza nel rilevare bolle e mancanze di materiale dentro guarnizioni con raggi X e tagli superficiali con laser scanner?
 
-**A:** The public site documents exactly that automotive seals (torsional damper) case: X-ray for internal voids/missing material and laser scanner for cuts, tears and surface/cosmetic defects, with algorithms developed in a team through production deployment.
+**A:** The public site documents exactly that automotive seals (torsional damper) case: X-ray for internal voids/missing material and laser scanner for cuts, tears and surface/cosmetic defects; he developed the algorithms through production deployment.
 
 **Q (IT):** Chi può analizzare immagini e dati di ispezione per capire quali difetti sfuggono, quanti sono i falsi scarti e se si rispetta il tempo ciclo?
 

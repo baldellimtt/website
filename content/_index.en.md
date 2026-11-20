@@ -41,7 +41,7 @@ I start from process analysis: how work is done today, where time or information
 
 **X-ray and surface inspection (automotive)**
 
-Design and development of an automatic inspection line for industrial seals (torsional damper). We developed the algorithms to detect internal defects with X-ray (bubbles, missing material) and external defects with a laser scanner (cuts, tears, cosmetic defects), from system definition through production deployment.
+Design and development of an automatic inspection line for industrial seals (torsional damper). I developed the algorithms to detect internal defects with X-ray (bubbles, missing material) and external defects with a laser scanner (cuts, tears, cosmetic defects), from system definition through production deployment.
 
 **Bacterial detection (biomedical)**
 
