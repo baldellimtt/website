@@ -41,7 +41,7 @@ I start from process analysis: how work is done today, where time or information
 
 **X-ray and surface inspection (automotive)**
 
-Design and development of an automatic line for X-ray inspection and surface control of mechanical components, from system definition through production deployment.
+Design and development of an automatic line for X-ray inspection and surface control of industrial seals (torsional damper), from system definition through production deployment.
 
 **Bacterial detection (biomedical)**
 

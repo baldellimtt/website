@@ -41,7 +41,7 @@ Parto dall'analisi dei processi: come si lavora oggi, dove si perdono tempo o in
 
 **Ispezione a raggi X e controllo superficiale (automotive)**
 
-Progettazione e sviluppo di una linea automatica per l'ispezione a raggi X e il controllo superficiale di componenti meccanici, dalla definizione del sistema fino alla messa in produzione.
+Progettazione e sviluppo di una linea automatica per l'ispezione a raggi X e il controllo superficiale di guarnizioni industriali (torsional damper), dalla definizione del sistema fino alla messa in produzione.
 
 **Rilevamento batterico (biomedicale)**
 
