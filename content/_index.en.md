@@ -58,6 +58,7 @@ I also follow technologies closer to understanding and interacting with the phys
 - **Vision-Language Models (VLM)**: multimodal models and AI applied to vision
 - **Vision-Language-Action (VLA)**: embodied AI, robotics and humanoid robots
 - **SLAM & Autonomous Systems**: perception, localization, autonomous navigation and drones
+- **Robotics and AI in agriculture**: vision, automation and autonomous systems in the field
 
 ## Beyond work
 
@@ -69,7 +70,7 @@ I planted a small **olive grove of 60 trees in Franciacorta**: time outdoors, so
 
 ## Contact
 
-For collaborations or projects in computer vision, applied AI and intelligent systems:
+For collaborations or projects in computer vision, AI and intelligent systems, and also for other kinds of work, if it is worth talking about:
 
 **Email:** [baldellimtt@gmail.com](mailto:baldellimtt@gmail.com)  
 **Phone:** +39 329 748 4449  

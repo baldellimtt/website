@@ -58,6 +58,7 @@ Mi interesso anche a tecnologie più vicine alla comprensione e all'interazione 
 - **Vision-Language Models (VLM)**: modelli multimodali e AI applicata alla visione
 - **Vision-Language-Action (VLA)**: embodied AI, robotica e robot umanoidi
 - **SLAM & Autonomous Systems**: percezione, localizzazione, navigazione autonoma e droni
+- **Robotica e AI in agricoltura**: visione, automazione e sistemi autonomi in campo
 
 ## Oltre il lavoro
 
@@ -69,7 +70,7 @@ Ho messo a dimora un piccolo **oliveto di 60 piante in Franciacorta**: tempo all
 
 ## Contatti
 
-Per collaborazioni o progetti su computer vision, AI applicata e sistemi intelligenti:
+Per collaborazioni o progetti su computer vision, AI e sistemi intelligenti, e anche per lavori diversi, se ha senso parlarne:
 
 **Email:** [baldellimtt@gmail.com](mailto:baldellimtt@gmail.com)  
 **Telefono:** +39 329 748 4449  
